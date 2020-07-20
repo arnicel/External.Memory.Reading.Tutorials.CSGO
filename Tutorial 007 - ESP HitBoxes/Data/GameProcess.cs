@@ -17,7 +17,7 @@ namespace RCi.Tutorials.Csgo.Cheat.External.Data
 
         private const string NAME_PROCESS = "csgo";
 
-        private const string NAME_MODULE_CLIENT = "client_panorama.dll";
+        private const string NAME_MODULE_CLIENT = "client.dll";
 
         private const string NAME_MODULE_ENGINE = "engine.dll";
 
