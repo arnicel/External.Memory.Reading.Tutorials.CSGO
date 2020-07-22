@@ -103,6 +103,7 @@ namespace RCi.Tutorials.Csgo.Cheat.External.Data.Internal
                 return true;
             }
 
+            Console.WriteLine($"Entity: {Index} ; Health{Health} ; Team {Team}");
             UpdateStudioHdr(gameProcess);
             UpdateStudioHitBoxes(gameProcess);
             UpdateStudioBones(gameProcess);
